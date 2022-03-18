@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New Project</string>
+    <string name="Button_main">Send</string>
+    <string name="EditText_main">Enter Your Message Here</string>
+    <string name="message_recived">Message Recived</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Recived</string>
+</resources>

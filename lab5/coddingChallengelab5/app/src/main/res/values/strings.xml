@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">coddingChallenge(lab5)</string>
+    <string name="check_shop">Check Shop</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="pear">pear</string>
+    <string name="banana">banana</string>
+    <string name="apple">Apple</string>
+    <string name="orange">orange</string>
+    <string name="eggs">eggs</string>
+    <string name="bread">bread</string>
+    <string name="berries">berries</string>
+    <string name="strawberry">strawberry</string>
+</resources>
